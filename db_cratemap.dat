@@ -1,5 +1,5 @@
 # Hall C Crate map
-==== Crate 1 type fastbus
+==== Crate 1 type fastbus mkj
 # slot  model   clear   header  mask    nchan   ndata
   1     1881    1       0x0     0x0     64      64
   3     1881    1       0x0     0x0     64      64
